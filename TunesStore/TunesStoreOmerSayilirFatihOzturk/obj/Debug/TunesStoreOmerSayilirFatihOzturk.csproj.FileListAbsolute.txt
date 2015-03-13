@@ -1,0 +1,19 @@
+c:\users\ömer sayilir\documents\visual studio 2013\Projects\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe.config
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe.config
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.csprojResolveAssemblyReference.cache
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.Form1.resources
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.Properties.Resources.resources
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.csproj.GenerateResource.Cache
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.exe
+C:\Users\Fatih Öztürk\Desktop\TunesStoreOmerSayilirFatihOzturk\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe.config
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.exe
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.csprojResolveAssemblyReference.cache
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.Form1.resources
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.Properties.Resources.resources
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.csproj.GenerateResource.Cache
+C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
