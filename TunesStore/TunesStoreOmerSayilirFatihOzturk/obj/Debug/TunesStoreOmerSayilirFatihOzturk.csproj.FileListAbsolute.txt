@@ -17,3 +17,6 @@ C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\Tu
 C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.Properties.Resources.resources
 C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.csproj.GenerateResource.Cache
 C:\Users\Fatih Öztürk\Desktop\ROC TER AA\Applicatie Programmeren\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
+C:\Users\Fatih Öztürk\Documents\GitHub\TheNewTuneStore\TunesStore\TunesStoreOmerSayilirFatihOzturk\bin\Debug\TunesStoreOmerSayilirFatihOzturk.exe.config
+C:\Users\Fatih Öztürk\Documents\GitHub\TheNewTuneStore\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.exe
+C:\Users\Fatih Öztürk\Documents\GitHub\TheNewTuneStore\TunesStore\TunesStoreOmerSayilirFatihOzturk\obj\Debug\TunesStoreOmerSayilirFatihOzturk.pdb
